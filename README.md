@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### ADR
 
 Check out this [documentation](https://github.com/vandijkelbert/howtodocument/blob/main/docs/arch/)
+Check out this [documentation](https://github.com/vandijkelbert/howtodocument/blob/main/docs/arch/adr-nnn-template.md)
